@@ -15,5 +15,13 @@
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matanpa/slugger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/matanpa/slugger/issues"
+  },
+  "homepage": "https://github.com/matanpa/slugger#readme"
 }
